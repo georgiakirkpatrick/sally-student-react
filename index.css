@@ -1,0 +1,62 @@
+body {
+    padding-left: 20px;
+    font-family: 'Tenor Sans', cursive;
+    color: darkblue;
+    padding-bottom: 20px;
+  
+  }
+  
+  section {
+    padding-bottom: 30px;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  h2 {
+    font-size: 40px;
+  }
+  
+  h3 {
+    font-size: 25px;
+  }
+  
+  p {
+    font-size: 20px; 
+  }
+  
+  ul.noindent {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  
+  li {
+    font-size: 20px;
+  }
+  
+  footer {
+    font-size: 25px; 
+  }
+  
+  a {
+    font-size: 20px;
+    color: darkblue;
+  
+  }
+  
+  a:hover {
+    font-family: 'Lobster', cursive;
+    font-size: 143%;
+    color: rgb(255, 166, 0);
+  }
+  
+  a:active {
+    color: black
+  }
+  
+  a:visited {
+    color: black
+  }
